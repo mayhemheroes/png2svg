@@ -1,0 +1,6 @@
+project: png2svg
+target: png2svg
+
+cmds:
+  - cmd: /png2svg
+    env: {}
